@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "Test User",
+      "email": "test@example.com",
+      "password": "password123"
+    }
+  ],
+  "todos": [
+    {
+      "title": "Buy groceries",
+      "description": "Milk, eggs, bread",
+      "priority": "high",
+      "completed": false
+    },
+    {
+      "title": "Finish project",
+      "description": "Complete testing assignment",
+      "priority": "medium",
+      "completed": false
+    },
+    {
+      "title": "Call dentist",
+      "description": "",
+      "priority": "low",
+      "completed": true
+    }
+  ]
+}
